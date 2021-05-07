@@ -115,7 +115,6 @@ Sujeto  Tipo  Sexo   Peso    Altura
 ')
 
 antr
-Peso
 antr$Peso
 attach(antr)
 Peso
@@ -127,7 +126,6 @@ plot(Peso,type="l",ylab="Peso")
 
 plot(Peso,Altura)
 
-pairs(antr)
 
 # Operaciones:
 17/2 # division
